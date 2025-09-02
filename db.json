@@ -1,0 +1,50 @@
+{
+  "incidents": [
+    {
+      "id": "52a5",
+      "type": "f",
+      "location": "f",
+      "severity": "f",
+      "status": "f",
+      "description": "",
+      "reporter": "f"
+    },
+    {
+      "id": "00a2",
+      "type": "c",
+      "location": "c",
+      "severity": "c",
+      "status": "c",
+      "description": "c",
+      "reporter": "c"
+    },
+    {
+      "id": "ed25",
+      "type": "murder",
+      "location": "shop",
+      "severity": "Критическая",
+      "status": "Решен",
+      "description": "",
+      "lastName": "Doe",
+      "firstName": "Jhon",
+      "middleName": "Jhonovich",
+      "email": "bebebe@mail.com",
+      "reporterStatus": "Прохожий",
+      "personStatus": "Прохожий"
+    },
+    {
+      "id": "2c6e",
+      "type": "d",
+      "location": "d",
+      "severity": "Низкая",
+      "status": "В процессе",
+      "firstName": "dododo",
+      "lastName": "de",
+      "middleName": "dadada",
+      "email": "asdasdsad",
+      "reporterStatus": "Другой",
+      "description": "mfjkfnfjkfffefqdwqdqwdvnunvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "personStatus": "Сотрудник"
+    }
+  ]
+}
